@@ -24,7 +24,22 @@ class Product:
         return self.price > other.price
 
 
-p1 = Product("iPhone X", 80000)
-p2 = Product("iPhone X", 80000)
-# print(p1 == p2)
-print(p1 + p2)
+# Subclass
+class ImportedProduct(Product):
+    def __init__(self, name, price, duty):
+        super().__init__(name, price)
+        self.duty = duty
+
+    # Overriding
+    def print_details(self):
+        print(f"Name = {self.name}, Price = {self.price}, Duty =  {self.duty}")
+
+    def get_price(self):
+        return self.price + (self.price * self.duty / 100)
+
+
+if __name__ == "__main__":
+    p1 = Product("iPhone X", 80000)
+    ip = ImportedProduct("Laptop", 60000, 20)
+    print(ip.get_price())
+
