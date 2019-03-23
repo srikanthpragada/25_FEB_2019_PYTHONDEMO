@@ -9,7 +9,7 @@ class A(Common):
     #     print("Process in A")
 
 
-class B:
+class B(Common):
     def process(self):
         print("Process in B")
 
@@ -20,3 +20,5 @@ class C(A, B):
 
 obj_c = C()
 obj_c.process()
+print(C.__mro__)
+
