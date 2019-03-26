@@ -11,6 +11,8 @@ class Product:
     def set_price(self, price):
         if price > 0:
             self.price = price
+        else:
+            raise ValueError(f"Invalid value for price : {price} !")
 
     def __str__(self):
         return f"{self.name} - {self.price}"
@@ -40,6 +42,7 @@ class ImportedProduct(Product):
 
 if __name__ == "__main__":
     p1 = Product("iPhone X", 80000)
-    ip = ImportedProduct("Laptop", 60000, 20)
-    print(ip.get_price())
+    p1.set_price(-10000)
+    #ip = ImportedProduct("Laptop", 60000, 20)
+    #print(ip.get_price())
 
