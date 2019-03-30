@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5ae939e-ebc4-4673-bdd6-9ffb8ca057e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ex/list_python_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libdemo/average_marks2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libdemo/write_marks_across.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/freq_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/story.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/unique_words.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,24 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gnerator_demo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oop/gnerator_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="even_iterator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex/even_iterator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="marks.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oop/marks.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,14 +38,9 @@
         <entry file="file://$PROJECT_DIR$/libdemo/write_marks_across.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="marks2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libdemo/marks2.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="marks.txt" pinned="false" current-in-tab="false">
@@ -79,16 +56,43 @@
         <entry file="file://$PROJECT_DIR$/libdemo/average_marks.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
-              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="average_marks2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="average_marks2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/average_marks2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="87">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unique_words.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex/unique_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="freq_words.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex/freq_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="story.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex/story.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -96,7 +100,7 @@
       <file leaf-file-name="list_python_file.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex/list_python_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
+            <state relative-caret-position="377">
               <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
@@ -164,10 +168,13 @@
         <option value="$PROJECT_DIR$/ex/list_python_file.py" />
         <option value="$PROJECT_DIR$/libdemo/write_marks_across.py" />
         <option value="$PROJECT_DIR$/libdemo/average_marks2.py" />
+        <option value="$PROJECT_DIR$/ex/story.txt" />
+        <option value="$PROJECT_DIR$/ex/unique_words.py" />
+        <option value="$PROJECT_DIR$/ex/freq_words.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="5" />
     <option name="y" value="7" />
     <option name="width" value="1260" />
@@ -189,16 +196,6 @@
               <item name="pythondemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythondemo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pythondemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythondemo" type="462c0819:PsiDirectoryNode" />
-              <item name="libdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythondemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythondemo" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -209,14 +206,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jan28/webdemo" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\classroom\python\feb25\pythondemo\ex" />
+      <recent name="E:\classroom\python\feb25\pythondemo\libdemo" />
+      <recent name="E:\classroom\python\feb25\pythondemo\oop" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\classroom\python\feb25\pythondemo\ex" />
       <recent name="E:\classroom\python\feb25\pythondemo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\classroom\python\feb25\pythondemo\libdemo" />
-      <recent name="E:\classroom\python\feb25\pythondemo\oop" />
-      <recent name="E:\classroom\python\feb25\pythondemo\ex" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,25 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.average_marks2">
-    <configuration name="average_marks" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythondemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/average_marks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.freq_words">
     <configuration name="average_marks2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,6 +242,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/average_marks2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="freq_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex/freq_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +283,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="write_marks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="unique_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,11 +291,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/write_marks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex/unique_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,19 +320,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.write_marks" />
-      <item itemvalue="Python.average_marks" />
       <item itemvalue="Python.list_python_file" />
       <item itemvalue="Python.write_marks_across" />
       <item itemvalue="Python.average_marks2" />
+      <item itemvalue="Python.unique_words" />
+      <item itemvalue="Python.freq_words" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.freq_words" />
+        <item itemvalue="Python.unique_words" />
         <item itemvalue="Python.average_marks2" />
         <item itemvalue="Python.write_marks_across" />
         <item itemvalue="Python.list_python_file" />
-        <item itemvalue="Python.average_marks" />
-        <item itemvalue="Python.write_marks" />
       </list>
     </recent_temporary>
   </component>
@@ -353,15 +350,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16613673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16613673" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3431677" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11801242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32919255" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -384,20 +381,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/if_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/even.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/if_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -701,7 +684,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex/list_python_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
+        <state relative-caret-position="377">
           <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
@@ -716,24 +699,42 @@
     <entry file="file://$PROJECT_DIR$/libdemo/write_marks_across.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libdemo/marks2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/average_marks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/average_marks2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="87">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/story.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/unique_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/freq_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
