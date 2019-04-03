@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5ae939e-ebc4-4673-bdd6-9ffb8ca057e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/libdemo/count_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libdemo/dobs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libdemo/list_ages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,15 +29,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
               <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="marks.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libdemo/marks.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -77,11 +69,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="count_files.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="count_files.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/count_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="29">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_ages.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libdemo/list_ages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dobs.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libdemo/dobs.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -91,15 +101,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="29">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list_python_file.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex/list_python_file.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -119,8 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/if_test.py" />
-        <option value="$PROJECT_DIR$/ex/no_of_days.py" />
         <option value="$PROJECT_DIR$/while_demo.py" />
         <option value="$PROJECT_DIR$/for_demo.py" />
         <option value="$PROJECT_DIR$/factorial.py" />
@@ -170,6 +169,8 @@
         <option value="$PROJECT_DIR$/ex/unique_words.py" />
         <option value="$PROJECT_DIR$/ex/freq_words.py" />
         <option value="$PROJECT_DIR$/libdemo/count_files.py" />
+        <option value="$PROJECT_DIR$/libdemo/dobs.txt" />
+        <option value="$PROJECT_DIR$/libdemo/list_ages.py" />
       </list>
     </option>
   </component>
@@ -232,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.count_files">
+  <component name="RunManager" selected="Python.list_ages">
     <configuration name="average_marks2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,6 +288,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="list_ages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_ages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="unique_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,38 +324,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="write_marks_across" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythondemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/write_marks_across.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.write_marks_across" />
       <item itemvalue="Python.average_marks2" />
       <item itemvalue="Python.unique_words" />
       <item itemvalue="Python.freq_words" />
       <item itemvalue="Python.count_files" />
+      <item itemvalue="Python.list_ages" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_ages" />
         <item itemvalue="Python.count_files" />
         <item itemvalue="Python.freq_words" />
         <item itemvalue="Python.unique_words" />
         <item itemvalue="Python.average_marks2" />
-        <item itemvalue="Python.write_marks_across" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +363,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41459626" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21273293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32919255" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -385,20 +386,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/if_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/no_of_days.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/while_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
@@ -737,8 +724,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/count_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libdemo/dobs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libdemo/list_ages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
