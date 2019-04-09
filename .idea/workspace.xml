@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5ae939e-ebc4-4673-bdd6-9ffb8ca057e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/libdemo/list_flipkart_scripts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f5ae939e-ebc4-4673-bdd6-9ffb8ca057e4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,33 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="average_marks2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libdemo/average_marks2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unique_words.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex/unique_words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="freq_words.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex/freq_words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="count_files.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/count_files.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/libdemo/ThreadsDemo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
-              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -74,23 +44,56 @@
       <file leaf-file-name="list_flipkart_scripts.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/list_flipkart_scripts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="26" lean-forward="true" selection-end-line="9" />
+            <state relative-caret-position="174">
+              <caret line="7" column="26" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_st_items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libdemo/list_st_items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#1#16#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_st_items.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/libdemo/list_st_items.py">
+      <file leaf-file-name="tables.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/tables.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="261">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_jobs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/list_jobs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_job.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/add_job.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update_job_title.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/update_job_title.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -100,15 +103,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="58">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="story.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex/story.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -128,10 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ex/sum_of_numbers.py" />
-        <option value="$PROJECT_DIR$/ex/prime_number.py" />
-        <option value="$PROJECT_DIR$/ex/common_chars.py" />
-        <option value="$PROJECT_DIR$/ex/even_odd.py" />
         <option value="$PROJECT_DIR$/ex/union_of_chars.py" />
         <option value="$PROJECT_DIR$/ex/sum_of_digits.py" />
         <option value="$PROJECT_DIR$/ex/tel_dir.py" />
@@ -179,10 +169,14 @@
         <option value="$PROJECT_DIR$/libdemo/ThreadsDemo.py" />
         <option value="$PROJECT_DIR$/libdemo/list_flipkart_scripts.py" />
         <option value="$PROJECT_DIR$/libdemo/list_st_items.py" />
+        <option value="$PROJECT_DIR$/db/tables.txt" />
+        <option value="$PROJECT_DIR$/db/list_jobs.py" />
+        <option value="$PROJECT_DIR$/db/add_job.py" />
+        <option value="$PROJECT_DIR$/db/update_job_title.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="5" />
     <option name="y" value="7" />
     <option name="width" value="1260" />
@@ -207,7 +201,7 @@
             <path>
               <item name="pythondemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythondemo" type="462c0819:PsiDirectoryNode" />
-              <item name="libdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,14 +213,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jan28/webdemo" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\classroom\python\feb25\pythondemo\ex" />
-      <recent name="E:\classroom\python\feb25\pythondemo\libdemo" />
-      <recent name="E:\classroom\python\feb25\pythondemo\oop" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\classroom\python\feb25\pythondemo\ex" />
       <recent name="E:\classroom\python\feb25\pythondemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\classroom\python\feb25\pythondemo\db" />
+      <recent name="E:\classroom\python\feb25\pythondemo\ex" />
+      <recent name="E:\classroom\python\feb25\pythondemo\libdemo" />
+      <recent name="E:\classroom\python\feb25\pythondemo\oop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,8 +236,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list_st_items">
-    <configuration name="ThreadsDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.update_job_title">
+    <configuration name="add_job" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,47 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/ThreadsDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="count_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythondemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/count_files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="list_ages" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythondemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_ages.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/add_job.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,6 +273,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="list_jobs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/list_jobs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="list_st_items" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythondemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,20 +309,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="update_job_title" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythondemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/update_job_title.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.count_files" />
-      <item itemvalue="Python.list_ages" />
-      <item itemvalue="Python.ThreadsDemo" />
       <item itemvalue="Python.list_flipkart_scripts" />
       <item itemvalue="Python.list_st_items" />
+      <item itemvalue="Python.list_jobs" />
+      <item itemvalue="Python.add_job" />
+      <item itemvalue="Python.update_job_title" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.update_job_title" />
+        <item itemvalue="Python.add_job" />
+        <item itemvalue="Python.list_jobs" />
         <item itemvalue="Python.list_st_items" />
         <item itemvalue="Python.list_flipkart_scripts" />
-        <item itemvalue="Python.ThreadsDemo" />
-        <item itemvalue="Python.list_ages" />
-        <item itemvalue="Python.count_files" />
       </list>
     </recent_temporary>
   </component>
@@ -366,12 +361,12 @@
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16613673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08744038" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36645964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.060559005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32919255" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -394,34 +389,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex/prime_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/sum_of_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/common_chars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/even_odd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex/union_of_chars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -733,7 +700,7 @@
     <entry file="file://$PROJECT_DIR$/libdemo/ThreadsDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
@@ -742,21 +709,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/list_flipkart_scripts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="26" lean-forward="true" selection-end-line="9" />
-          <folding>
-            <element signature="e#1#16#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="174">
+          <caret line="7" column="26" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/list_st_items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="261">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/tables.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/list_jobs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/add_job.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/update_job_title.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>

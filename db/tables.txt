@@ -1,0 +1,10 @@
+create table jobs
+( id integer primary key,
+  title text(30) not null,
+  minsal  integer,
+  maxsal  integer
+)
+
+insert into jobs values(1,'Python Programmer',25000,100000);
+insert into jobs values(2,'Java Programmer',20000,150000);
+insert into jobs values(3,'Oracle DBA',50000,200000);
